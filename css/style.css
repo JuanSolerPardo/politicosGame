@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;    
+    background-color: #FFFFFF;
+}
+
+#app {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#game-container {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;    
+    justify-content: center;
+    align-items: center;
+}
+
+
